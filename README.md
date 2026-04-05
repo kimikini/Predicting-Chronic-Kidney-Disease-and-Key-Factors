@@ -44,12 +44,12 @@ Examples of variables used in the analysis include:
 ## 2. Exploratory Data Analysis
 - Examine target distribution
   
-  <img width="800" height="500" alt="HISTtarget" src="https://github.com/user-attachments/assets/64ae1af0-4ab8-423e-a605-2b5c76c3380f" />
+  <img width="500" height="400" alt="HISTtarget" src="https://github.com/user-attachments/assets/64ae1af0-4ab8-423e-a605-2b5c76c3380f" />
 
 - Compute summary statistics
 - Visualize missing-value counts
 - 
-  <img width="1344" height="960" alt="HISTmissing" src="https://github.com/user-attachments/assets/595a91d8-e794-43e7-ae43-61ef4088387f" />
+  <img width="500" height="500" alt="HISTmissing" src="https://github.com/user-attachments/assets/595a91d8-e794-43e7-ae43-61ef4088387f" />
 
 - Build a correlation heatmap for numeric variables
   
@@ -76,7 +76,7 @@ Examples of variables used in the analysis include:
 - Perform **backward stepwise AIC selection**
 - Diagnose quasi-complete separation
 - 
-  <img width="783" height="586" alt="Albumin" src="https://github.com/user-attachments/assets/06289220-59a9-4175-95af-143358a24556" />
+  <img width="500" height="300" alt="Albumin" src="https://github.com/user-attachments/assets/06289220-59a9-4175-95af-143358a24556" />
 
 - Remove **albumin (`al`)** due to instability
 - Fit the final logistic regression model using:
@@ -92,7 +92,7 @@ Examples of variables used in the analysis include:
 - Specificity
 - ROC curve
 - AUC
-<img width="747" height="571" alt="ROC" src="https://github.com/user-attachments/assets/eac08cdb-1f66-400c-a95d-2f5179af7566" />
+<img width="300" height="300" alt="ROC" src="https://github.com/user-attachments/assets/eac08cdb-1f66-400c-a95d-2f5179af7566" />
 
 ## 6. Missing-Data Robustness Analysis
 - Simulate **MCAR** at multiple missingness levels
@@ -139,7 +139,7 @@ Examples of variables used in the analysis include:
 - H1 became less stable as missingness increased
 - H2 remained highly robust under both **MCAR** and **MNAR** simulations
 - The final multivariable model preserved strong predictive performance even under substantial missingness 
-<img width="1088" height="322" alt="h1MCARMNAR" src="https://github.com/user-attachments/assets/cf2789b7-1792-43c1-8e2e-9e8d448c8840" />
+<img width="732" height="200" alt="h1MCARMNAR" src="https://github.com/user-attachments/assets/cf2789b7-1792-43c1-8e2e-9e8d448c8840" />
 <img width="732" height="201" alt="h2MCARMNAR" src="https://github.com/user-attachments/assets/38c4df4f-ce6b-49c9-bf21-4821ed800c6f" />
 
 ---
