@@ -9,7 +9,7 @@ The project is built around two main goals:
 1. **Hypothesis 1 (H1):** Test whether mean blood pressure differs between patients with **good appetite** and **poor appetite**.
 2. **Hypothesis 2 (H2):** Build a **multivariable logistic regression model** to predict CKD status and identify the most important clinical predictors. 
 
-A key contribution of this project is its focus on **missing-data robustness**. We evaluate how both inference and prediction behave under simulated **Missing Completely at Random (MCAR)** and **Missing Not at Random (MNAR)** 
+A key contribution of this project is its focus on **logistic regression modeling & missing-data robustness**. We evaluate how both inference and prediction behave under simulated **Missing Completely at Random (MCAR)** and **Missing Not at Random (MNAR)** 
 
 ## Contributors
 - **Alan Rodriguez**
